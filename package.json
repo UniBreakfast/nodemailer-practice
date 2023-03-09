@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/UniBreakfast/nodemailer-practice/issues"
   },
-  "homepage": "https://github.com/UniBreakfast/nodemailer-practice#readme"
+  "homepage": "https://github.com/UniBreakfast/nodemailer-practice#readme",
+  "dependencies": {
+    "nodemailer": "^6.9.1"
+  }
 }
